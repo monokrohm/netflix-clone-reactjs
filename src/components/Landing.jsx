@@ -116,6 +116,7 @@ const StartButton = styled.button`
     font-size: 24px;
     font-weight: 600;
     letter-spacing: 0.5px;
+    white-space: nowrap;
     color: rgb(250,250,250);
     cursor: pointer;
 
